@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import { ThemeToggle } from "./ThemeToggle";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 
@@ -29,10 +30,10 @@ export function Header() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <a href="/" className="text-xl font-semibold text-muted hover:text-muted transition-colors">
+            <Link href="/" className="text-xl font-semibold text-muted hover:text-muted transition-colors">
               <span className="sm:hidden">NL</span>
               <span className="hidden sm:inline">Nissim Lebovits</span>
-            </a>
+            </Link>
           </div>
 
           {/* Desktop Navigation */}

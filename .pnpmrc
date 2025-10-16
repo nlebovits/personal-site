@@ -1,0 +1,12 @@
+# PNPM configuration for Vercel deployment
+# Allow scripts to run during installation (needed for some dependencies)
+enable-pre-post-scripts=true
+
+# Disable strict peer dependencies warnings (optional, for cleaner logs)
+strict-peer-dependencies=false
+
+# Use hard links for better performance
+link-workspace-packages=true
+
+# Store location for PNPM cache
+store-dir=~/.pnpm-store

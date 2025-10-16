@@ -1,0 +1,52 @@
+{
+  "navigation": {
+    "about": "About",
+    "resume": "Resume",
+    "projects": "Projects",
+    "writing": "Writing",
+    "talks": "Talks"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "I'm a passionate full-stack developer with expertise in modern web technologies. I love creating efficient, scalable applications that solve real-world problems.",
+    "bio2": "With experience in React, Node.js, and cloud technologies, I enjoy working on projects that make a positive impact on users' lives.",
+    "bio3": "When I'm not coding, you can find me exploring new technologies, contributing to open source, or sharing knowledge with the developer community."
+  },
+  "resume": {
+    "title": "Resume",
+    "description": "Download my resume to learn more about my experience and skills.",
+    "downloadButton": "Download Resume"
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "A collection of projects I've worked on, showcasing different technologies and approaches.",
+    "viewProject": "View Project",
+    "page": "Page",
+    "of": "of"
+  },
+  "writing": {
+    "title": "Writing",
+    "description": "Articles and thoughts on software development, technology, and industry trends.",
+    "readMore": "Read More"
+  },
+  "talks": {
+    "title": "Talks",
+    "description": "Presentations and talks I've given at conferences and meetups.",
+    "viewSlides": "View Slides"
+  },
+  "footer": {
+    "copyright": "All rights reserved.",
+    "builtWith": "Built with Next.js and Tailwind CSS"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "Light mode",
+    "dark": "Dark mode"
+  },
+  "language": {
+    "switch": "Switch language",
+    "english": "English",
+    "spanish": "Español"
+  }
+}
+

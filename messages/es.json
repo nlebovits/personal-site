@@ -1,0 +1,52 @@
+{
+  "navigation": {
+    "about": "Acerca de",
+    "resume": "Currículum",
+    "projects": "Proyectos",
+    "writing": "Escritos",
+    "talks": "Charlas"
+  },
+  "about": {
+    "title": "Acerca de Mí",
+    "bio": "Soy un desarrollador full-stack apasionado con experiencia en tecnologías web modernas. Me encanta crear aplicaciones eficientes y escalables que resuelven problemas del mundo real.",
+    "bio2": "Con experiencia en React, Node.js y tecnologías en la nube, disfruto trabajando en proyectos que tienen un impacto positivo en la vida de los usuarios.",
+    "bio3": "Cuando no estoy programando, puedes encontrarme explorando nuevas tecnologías, contribuyendo al código abierto o compartiendo conocimiento con la comunidad de desarrolladores."
+  },
+  "resume": {
+    "title": "Currículum",
+    "description": "Descarga mi currículum para conocer más sobre mi experiencia y habilidades.",
+    "downloadButton": "Descargar Currículum"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "description": "Una colección de proyectos en los que he trabajado, mostrando diferentes tecnologías y enfoques.",
+    "viewProject": "Ver Proyecto",
+    "page": "Página",
+    "of": "de"
+  },
+  "writing": {
+    "title": "Escritos",
+    "description": "Artículos y reflexiones sobre desarrollo de software, tecnología y tendencias de la industria.",
+    "readMore": "Leer Más"
+  },
+  "talks": {
+    "title": "Charlas",
+    "description": "Presentaciones y charlas que he dado en conferencias y meetups.",
+    "viewSlides": "Ver Diapositivas"
+  },
+  "footer": {
+    "copyright": "Todos los derechos reservados.",
+    "builtWith": "Construido con Next.js y Tailwind CSS"
+  },
+  "theme": {
+    "toggle": "Cambiar tema",
+    "light": "Modo claro",
+    "dark": "Modo oscuro"
+  },
+  "language": {
+    "switch": "Cambiar idioma",
+    "english": "English",
+    "spanish": "Español"
+  }
+}
+
